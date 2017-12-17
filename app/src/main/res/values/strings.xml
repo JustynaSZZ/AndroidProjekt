@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Podaj Imie</string>
+    <string name="wyszukaj">Wyszukaj</string>
+    <string name="podajImie">Podaj swoje imie...</string>
+</resources>
